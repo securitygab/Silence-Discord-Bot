@@ -1,0 +1,8 @@
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\MCD\Debug\netcoreapp1.1\SilenceBot.deps.json
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\MCD\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\MCD\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\MCD\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\MCD\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\MCD\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\MCD\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\MCD\Debug\netcoreapp1.1\SilenceBot.pdb

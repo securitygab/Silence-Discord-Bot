@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="1.0.1" />
+    <PackageReference Include="Discord.Net.Commands" Version="1.0.1" />
+    <PackageReference Include="Discord.Net.Core" Version="1.0.1" />
+    <PackageReference Include="Discord.Net.Webhook" Version="1.0.1" />
+    <PackageReference Include="Discord.Net.WebSocket" Version="1.0.1" />
+    <PackageReference Include="Humanizer" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+</Project>

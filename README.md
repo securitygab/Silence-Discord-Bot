@@ -1,1 +1,1 @@
-SilenceRelease
+This bot is no longer in development or running therefore I am releasing it to the public

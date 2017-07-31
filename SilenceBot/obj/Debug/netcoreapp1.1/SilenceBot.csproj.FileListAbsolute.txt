@@ -1,0 +1,54 @@
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.deps.json
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.dll
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.csprojResolveAssemblyReference.cache
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.pdb
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.dll
+c:\users\noah\documents\visual studio 2017\Projects\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Administrator\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.deps.json
+C:\Users\Administrator\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+C:\Users\Administrator\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Administrator\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Administrator\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Administrator\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.deps.json
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.csprojResolveAssemblyReference.cache
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\modjedi17\Desktop\Silence\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.deps.json
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Noah\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.deps.json
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.csprojResolveAssemblyReference.cache
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\Noah\Desktop\SilenceBots\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.deps.json
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.json
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.runtimeconfig.dev.json
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\bin\Debug\netcoreapp1.1\SilenceBot.pdb
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.csprojResolveAssemblyReference.cache
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.AssemblyInfo.cs
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.dll
+C:\Users\modjedi17\Desktop\SilenceBot\SilenceBot\obj\Debug\netcoreapp1.1\SilenceBot.pdb
